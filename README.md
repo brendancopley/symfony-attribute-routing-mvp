@@ -1,5 +1,6 @@
 # Symfony Attribute Routing MVP
 
+Symfony MVP demonstrating PHP 8 attribute-based routing.
 A minimal viable product (MVP) demonstrating the implementation of attribute-based routing in Symfony. This project showcases how to use PHP 8 attributes for defining routes in a Symfony application, providing a modern and clean approach to route configuration.
 
 ## Features
